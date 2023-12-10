@@ -8,7 +8,19 @@ This starter project is an Android application designed with modern architecture
 Hilt for dependency injection, simplifying the way you manage dependencies in your application.
 Room as an abstraction layer over SQLite, allowing for more robust database access while harnessing the full power of SQLite.
 Retrofit with OkHttp for efficient network requests and easy REST API consumption.
-Getting Started
+
+- [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
+- [Room](https://developer.android.com/training/data-storage/room)
+- [Retrofit](https://square.github.io/retrofit/)
+- [OkHttp](https://square.github.io/okhttp/)
+- [Coroutines](https://developer.android.com/kotlin/coroutines)
+- [Flow](https://developer.android.com/kotlin/flow)
+- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
+- [Material Design](https://material.io/develop/android/docs/getting-started)
+
+## Getting Started
 
 To get started with this project, clone the repository and import it into Android Studio.
 
