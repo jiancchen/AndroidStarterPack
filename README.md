@@ -13,7 +13,9 @@ Getting Started
 To get started with this project, clone the repository and import it into Android Studio.
 
 ## Important
-Rename the package name and project before working
+Rename the package name and project before working. To do this, right click on the project in the project explorer in (Android Mode),
+select the gear icon and make the that compact empty middle box is selected. Then right click on the project in the project explorer in (Android Mode), select refactor, and rename the project. 
+This will rename the package name and project name throughout the project.
 
 ## Architecture
 
