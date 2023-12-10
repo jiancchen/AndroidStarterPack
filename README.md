@@ -29,6 +29,8 @@ Rename the package name and project before working. To do this, right click on t
 select the gear icon and make the that compact empty middle box is selected. Then right click on the project in the project explorer in (Android Mode), select refactor, and rename the project. 
 This will rename the package name and project name throughout the project.
 
+Remember to remove the .git folder from the project before pushing to a new repository.
+
 ## Architecture
 
 This project follows the MVVM (Model-View-ViewModel) architecture pattern, ensuring separation of concerns and easier testing.
